@@ -1,6 +1,8 @@
 // Real-Life Patch Notes — make.fun entry
 // Line (105 bytes, 103 chars): version number + terse engineering register,
 // a real body bug (photic sneeze reflex) stated as if it shipped.
+// Criteria order: patch note on a real-life bug, genuinely funny,
+// reads like a release note, specific bug, tight.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
